@@ -1,0 +1,7 @@
+
+Latest 1.0.0 https://github.com/auhems/heg_release/releases/download/v_1.0.0_test/heg_linux_arm64_1.0.0.deb
+
+
+History:
+1.0.0 https://github.com/auhems/heg_release/releases/download/v_1.0.0_test/heg_linux_arm64_1.0.0.deb
+
